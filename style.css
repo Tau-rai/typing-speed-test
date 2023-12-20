@@ -136,6 +136,8 @@ body {
     margin-bottom: 4em;
     padding: 0 2em;
     background-image: url(../images/keyboard.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .test-wrapper {
