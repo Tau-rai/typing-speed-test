@@ -48,8 +48,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 No Licence
 
-## Contact
+## Author
 
-Taurai - [@tau_rai](https://twitter.com/tau_rai)
+Twitter - [@tau_rai](https://twitter.com/tau_rai)
 
 Project Link: [typing-speed-test](https://github.com/Tau-rai/typing-speed-test)
